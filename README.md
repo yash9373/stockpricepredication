@@ -25,5 +25,8 @@ The model's performance is evaluated using various metrics, including mean absol
 
 ## Conclusion
 This project contributes to the field of finance by providing a robust framework for stock price prediction and pattern detection using state-of-the-art deep learning techniques. The findings presented in the manuscript offer valuable insights for investors and financial analysts.
+![Screenshot 2024-04-19 172112](https://github.com/yash9373/stockpricepredication/assets/101787484/5898b1bd-743f-4db7-a11e-e04e966abc15)
+![Screenshot 2024-04-19 172105](https://github.com/yash9373/stockpricepredication/assets/101787484/867881b6-2dae-4a86-a09c-916cc8174a90)
+![Screenshot 2024-04-19 172034](https://github.com/yash9373/stockpricepredication/assets/101787484/f06aa6ce-2d39-4376-a707-d1a13b796956)
 
 For further information, please refer to the manuscript linked above.
